@@ -12,7 +12,7 @@ A responsive personal portfolio website built with HTML and CSS to showcase the 
 - Easy navigation
 - Contact section for communication
 # how tov= view
-you can acess my portfolio websiting by [link]
+you can acess my portfolio websiting by [https://pavithra123-456.github.io/portfolio-simple-website/]
 
 ## Purpose
 This project was developed to strengthen front-end web development skills and establish an online presence through a simple yet effective portfolio website.
